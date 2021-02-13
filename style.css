@@ -1,0 +1,50 @@
+nav{
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.col{
+	margin-top: 4%;
+	/* margin-left: 2%; */
+}
+
+.btn {
+	margin-right: 4%;
+}
+
+.hd {
+	background-color: rgb(240, 223, 223);
+}
+
+
+
+
+body{
+
+	background-color: aliceblue;
+}
+
+.co{
+	background-color: aliceblue;
+	margin-top: ;
+}
+
+
+header {
+	height: 100px;
+	width: 100%;
+	z-index: 10;
+	position: fixed;
+}
+
+.container-harvil{
+	margin-top:8%;
+}
+
+
+.container-hd{
+	margin-top: 4%;
+}
+
